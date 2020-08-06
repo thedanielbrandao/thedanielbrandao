@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi, I'm Daniel, I was about to finish high school, if the coronavirus pandemic hadn't happened, now I'm not sure anymore haha.
+I speak Portuguese and English, and currently I'm learning German and French. As you can see, I like studying languages.
+Now, I'm trying to learn programming languages, as I just love technologies. Not sure yet if I prefer front-end or back-end.
+I also like Soccer and Basketball, so I'm a sports fan, although I'm not exactly the most athletic guy you'll meet haha.
+Another thing I really love is traveling. I know it's cliche, but someday I'm gonna visit lots of countries and places around the world.
+And I am still working on this README.md.
 
 <!--
 **thedanielbrandao/thedanielbrandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
